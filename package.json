@@ -1,0 +1,24 @@
+{
+  "name": "solidity-sample",
+  "version": "1.0.0",
+  "description": "A sample for deploying ERC20 or ERC721 Token using truffle suite",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timqi/solidity-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timqi/solidity-sample/issues"
+  },
+  "homepage": "https://github.com/timqi/solidity-sample#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
